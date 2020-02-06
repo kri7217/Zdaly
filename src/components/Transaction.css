@@ -1,0 +1,14 @@
+tr{
+    padding: 4px;
+    border-bottom: 1px solid;
+}
+
+td{
+    padding: 16px;
+}
+
+tr:hover{
+    background-color: lavender;
+    color: forestgreen;
+    cursor: pointer;
+}

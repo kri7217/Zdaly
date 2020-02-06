@@ -1,0 +1,26 @@
+table{
+    border:2px solid;
+    border-collapse: collapse;
+    min-width: 820px;
+    min-height: 600px;
+}
+
+.headerRow{
+    border-bottom: 4px solid;
+}
+
+th{
+    padding: 8px;
+}
+
+.paginationStrip{
+    display: flex;
+    margin-top: 16px;
+    justify-content: center;
+}
+
+.search{
+    padding: 8px;
+    border-radius: 4px;
+    font-size: 20px;
+}

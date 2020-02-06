@@ -1,0 +1,13 @@
+.pageItem{
+    padding: 8px;
+    margin-right: 2px;
+    border: 1px solid;
+    box-shadow: 2px 2px;
+    min-width: 20px;
+    cursor: pointer
+}
+
+.pageItem:hover{
+    background-color: lavender;
+    color: forestgreen;
+}
